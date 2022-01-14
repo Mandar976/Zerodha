@@ -34,7 +34,7 @@ public class Automatezerodha {
 		pom.enterpin("866918");
 		pom.clickoncontinue();
 		Thread.sleep(5000);
-		pom.enterstockname("pmcfin");
+		pom.enterstockname("TCS");
 		pom.clickonstock();
 	}
 	@AfterClass
