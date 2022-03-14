@@ -40,6 +40,7 @@ public class Automatezerodha {
 	@AfterClass
 	public void Screenshotss() throws IOException {
 		Screenshotkite.Screen(driver, "Kite");
+		Screenshotkite.Screen(driver,"Zerodha");
 	}
 	
 	}
